@@ -1,0 +1,25 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+/* TEAM */
+
+	Developer: Stéphane Guigné
+	Site: http//stephaneguigne.com
+	Contact: contact [at] stephaneguigne [dot] com
+	Twitter: @guin_s
+
+	Designer and Storyteller: Aude Degrassat
+	Site: http//audedegrassat.com
+	Twitter: @audelet
+
+/* THANKS */
+
+	Gifs
+    Vince Mckelvie | http://vincemckelvie.tumblr.com
+    Mert Keskin | http://haydiroket.tumblr.com/
+    Adam Ferriss | http://adamferriss.com/
+
+/* SITE */
+
+    Standards: CSS3, HTML5
+    Components: Modernizr, Browserify, Vue.js, jQuery, TweenMax
